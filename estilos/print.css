@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+@media print {
+    * {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 1em;
+    }
+    aside > p {
+        font-family: 'Courier New', Courier, monospace;
+    }
+    .banner {
+        display: none;
+    }
+    header {
+        display: none;
+    }
+    h1 {
+        text-shadow: none;
+        color: black;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    footer {
+        display: none;
+    }
+    div > picture > img {
+        display: none;
+    }
+}
