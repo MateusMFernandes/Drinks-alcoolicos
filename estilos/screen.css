@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 720px) and (max-width: 850px) {
+    article {
+        width: 93vw;
+        columns: 2;
+        margin-bottom: 50px;
+        margin-left: -25px;
+        margin-top: 20px;
+        padding: 8px;
+    }
+}
+
+@media screen and (min-width: 851px) and (max-width: 1020px){
+    article {
+        width: 80vw;
+        columns: 2;
+        margin-bottom: 70px;
+        margin-top: 20px;
+        padding: 15px;
+
+    }
+
+}
+@media screen and (min-width: 1021px) and (max-width: 1220px){
+    article {
+        width: 80vw;
+        columns: 2;
+        margin-bottom: 200%;
+        margin: auto;
+        margin-top: 20px;
+        padding: 20px;
+
+    }
+}
+@media screen and (min-width: 1221px) and (max-width: 1900px){
+        article {
+            width: 85vw;
+            columns: 3;
+            margin: auto;
+            padding: 20px;
+            margin-bottom: 100px;
+        }
+    }
+
+
+
+    
+
+    
+       
+
