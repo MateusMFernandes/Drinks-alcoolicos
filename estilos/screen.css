@@ -33,13 +33,15 @@
 
     }
 }
-@media screen and (min-width: 1221px) and (max-width: 1900px){
+@media screen and (min-width: 1221px){
         article {
             width: 85vw;
             columns: 3;
             margin: auto;
             padding: 20px;
             margin-bottom: 100px;
+            width: 1050px;
+            column-gap: 50px;
         }
     }
 
