@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-@media screen and (min-width: 668px) and (max-width: 850px) {
+@media screen and (min-width: 720px) and (max-width: 850px) {
     article {
         width: 93vw;
         columns: 2;
