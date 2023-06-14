@@ -75,10 +75,10 @@ footer>p {
     text-align: center;
     text-shadow: 0px 1px 1px rgba(22, 22, 22, 0.562);
 }
-a {
+footer > p > a {
     color: var(--cor0);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 16px;
+    font-size: 18px;
     text-shadow: 0px 1px 1px rgba(22, 22, 22, 0.562);
     text-decoration: none;
 }
@@ -94,11 +94,8 @@ article {
     margin-bottom: 20px;
     box-shadow: 2px 3px 7px rgba(0, 0, 0, 0.568);
 }
-footer > a {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 10px;
+footer > p > a:hover {
+    color: #fffb00;
 }
-footer > a:hover {
-    background-color: #dca901;
-}
+
 
